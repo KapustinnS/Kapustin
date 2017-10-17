@@ -1,0 +1,6 @@
+C:\Users\pro-13\Desktop\Kapustin\Lab1\Zadanie3\bin\Debug\Zadanie3.exe.config
+C:\Users\pro-13\Desktop\Kapustin\Lab1\Zadanie3\bin\Debug\Zadanie3.exe
+C:\Users\pro-13\Desktop\Kapustin\Lab1\Zadanie3\bin\Debug\Zadanie3.pdb
+C:\Users\pro-13\Desktop\Kapustin\Lab1\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\pro-13\Desktop\Kapustin\Lab1\Zadanie3\obj\Debug\Zadanie3.exe
+C:\Users\pro-13\Desktop\Kapustin\Lab1\Zadanie3\obj\Debug\Zadanie3.pdb
