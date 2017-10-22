@@ -5,3 +5,10 @@ C:\Users\pro-13\Desktop\Kapustin\Lab1\Zadanie1\obj\Debug\Zadanie1.csprojResolveA
 C:\Users\pro-13\Desktop\Kapustin\Lab1\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
 C:\Users\pro-13\Desktop\Kapustin\Lab1\Zadanie1\obj\Debug\Zadanie1.exe
 C:\Users\pro-13\Desktop\Kapustin\Lab1\Zadanie1\obj\Debug\Zadanie1.pdb
+D:\учеба\Kapustin\Lab1\Zadanie1\bin\Debug\Zadanie1.exe.config
+D:\учеба\Kapustin\Lab1\Zadanie1\bin\Debug\Zadanie1.exe
+D:\учеба\Kapustin\Lab1\Zadanie1\bin\Debug\Zadanie1.pdb
+D:\учеба\Kapustin\Lab1\Zadanie1\obj\Debug\Zadanie1.csprojResolveAssemblyReference.cache
+D:\учеба\Kapustin\Lab1\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+D:\учеба\Kapustin\Lab1\Zadanie1\obj\Debug\Zadanie1.exe
+D:\учеба\Kapustin\Lab1\Zadanie1\obj\Debug\Zadanie1.pdb

@@ -17,7 +17,6 @@ namespace Zadanie8
             Console.Write("\"");
             Console.Write(A);
             Console.Write("\"");
-
         }
     }
 }

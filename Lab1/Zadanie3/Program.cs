@@ -13,9 +13,7 @@ namespace Zadanie3
             string a;
             a = Console.ReadLine();
             Console.Write(a);
-            Console.Write(" нас не остановят!");
-            
-
+            Console.Write(" нас не остановят!");  
         }
     }
 }

@@ -16,9 +16,6 @@ namespace Zadanie9
             Console.Write("From students WHERE id = '");
             Console.Write(b);
             Console.Write("';");
-           
-
-
         }
     }
 }

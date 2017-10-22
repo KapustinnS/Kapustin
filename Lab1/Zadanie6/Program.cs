@@ -8,15 +8,10 @@ namespace Zadanie6
 {
     class Program
     {
-        
-
-
         static void Main(string[] args)
-        { Console.Write("Значение пи : {0:F4} \n" +
+        {
+            Console.Write("Значение пи : {0:F4} \n" +
             "Значение е : {1:F4}", Math.PI, Math.E);
-            
-
-            
         }
     }
 }

@@ -14,8 +14,6 @@ namespace Zadanie2
             a = Console.ReadLine();
             Console.Write("Мы стремимся к ");
             Console.Write(a);
-
-
         }
     }
 }
