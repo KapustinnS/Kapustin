@@ -17,12 +17,6 @@ namespace Zadanie5
             Console.Write(b);
             Console.Write(" ");
             Console.Write(a);
-            String str = "абв";
-            String input = "где";
-            String temp = str + "з";
-            str = temp;
-            input = "и" + str;
-
         }
     }
 }
