@@ -1,0 +1,7 @@
+D:\учеба\Kapustin\Lab1\Zadanie12\bin\Debug\Zadanie12.exe.config
+D:\учеба\Kapustin\Lab1\Zadanie12\bin\Debug\Zadanie12.exe
+D:\учеба\Kapustin\Lab1\Zadanie12\bin\Debug\Zadanie12.pdb
+D:\учеба\Kapustin\Lab1\Zadanie12\obj\Debug\Zadanie12.csprojResolveAssemblyReference.cache
+D:\учеба\Kapustin\Lab1\Zadanie12\obj\Debug\Zadanie12.csproj.CoreCompileInputs.cache
+D:\учеба\Kapustin\Lab1\Zadanie12\obj\Debug\Zadanie12.exe
+D:\учеба\Kapustin\Lab1\Zadanie12\obj\Debug\Zadanie12.pdb
