@@ -14,6 +14,10 @@ namespace Z4
             b = Console.ReadLine();
             double z;
             z = double.Parse(b);
+            if (z <=0)
+            { Console.Write("Радиус должин быть положительным");
+                return;
+            }
             double circumference;
             circumference = Math.PI * 2 * z;
             Console.Write("{0:F4}", circumference);

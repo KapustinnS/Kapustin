@@ -5,3 +5,10 @@ D:\учеба\Kapustin\Lab2\Z3\bin\Debug\Z3.pdb
 D:\учеба\Kapustin\Lab2\Z3\obj\Debug\Z3.csprojResolveAssemblyReference.cache
 D:\учеба\Kapustin\Lab2\Z3\obj\Debug\Z3.exe
 D:\учеба\Kapustin\Lab2\Z3\obj\Debug\Z3.pdb
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z3\bin\Debug\Z3.exe.config
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z3\bin\Debug\Z3.exe
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z3\bin\Debug\Z3.pdb
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z3\obj\Debug\Z3.csprojResolveAssemblyReference.cache
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z3\obj\Debug\Z3.csproj.CoreCompileInputs.cache
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z3\obj\Debug\Z3.exe
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z3\obj\Debug\Z3.pdb

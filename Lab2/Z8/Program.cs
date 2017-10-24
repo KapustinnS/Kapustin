@@ -13,10 +13,20 @@ namespace Z8
             string a;
             a = Console.ReadLine();
             int z;
-            z = int.Parse(a);
+            z = int.Parse(a); 
+            if (z <=0)
+            {
+                Console.Write("Значение z должно быть");
+                    return;
+            }
             a = Console.ReadLine();
             int c;
             c = int.Parse(a);
+            if (c <=0)
+            {
+                Console.Write("Значение c должно быть");
+                return;
+            }
             int totalInM, partInCm;
             totalInM = (z * 100) / c;
             partInCm = z * 100 % c;

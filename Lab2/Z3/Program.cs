@@ -14,8 +14,13 @@ namespace Z3
             a = Console.ReadLine();
             double x;
             x = double.Parse(a);
+            if (x <= 0)
+            {
+                Console.Write("Значение x должно быть положительным");
+                return;
+            }
             double volume;
-            volume = x * x * x;
+            volume = Math.Pow(x,3);
             Console.Write("{0:F4}", volume);
         }
     }
