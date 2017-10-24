@@ -1,0 +1,7 @@
+D:\учеба\Kapustin\Lab2\Z8\bin\Debug\Z8.exe.config
+D:\учеба\Kapustin\Lab2\Z8\bin\Debug\Z8.exe
+D:\учеба\Kapustin\Lab2\Z8\bin\Debug\Z8.pdb
+D:\учеба\Kapustin\Lab2\Z8\obj\Debug\Z8.csprojResolveAssemblyReference.cache
+D:\учеба\Kapustin\Lab2\Z8\obj\Debug\Z8.csproj.CoreCompileInputs.cache
+D:\учеба\Kapustin\Lab2\Z8\obj\Debug\Z8.exe
+D:\учеба\Kapustin\Lab2\Z8\obj\Debug\Z8.pdb
