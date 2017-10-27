@@ -16,7 +16,7 @@ namespace Z8
             z = int.Parse(a); 
             if (z <=0)
             {
-                Console.Write("Значение z должно быть");
+                Console.Write("Значение Z должно быть положительным");
                     return;
             }
             a = Console.ReadLine();
@@ -24,7 +24,7 @@ namespace Z8
             c = int.Parse(a);
             if (c <=0)
             {
-                Console.Write("Значение c должно быть");
+                Console.Write("Значение С должно быть положительным");
                 return;
             }
             int totalInM, partInCm;
