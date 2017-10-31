@@ -1,0 +1,6 @@
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z36\bin\Debug\Z36.exe.config
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z36\bin\Debug\Z36.exe
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z36\bin\Debug\Z36.pdb
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z36\obj\Debug\Z36.csproj.CoreCompileInputs.cache
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z36\obj\Debug\Z36.exe
+C:\Users\pro-25\Desktop\Kapustin\Lab2\Z36\obj\Debug\Z36.pdb
