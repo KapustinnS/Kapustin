@@ -12,7 +12,7 @@ namespace Z9
         {
             double Sc = double.Parse(Console.ReadLine());
             double Ss = double.Parse(Console.ReadLine());
-            double Sc1, Ss1, z; 
+            double Sc1, Ss1, z;
             if (Sc < 0)
             {
                 Console.Write("Площадь круга должна быть положительной\n");
