@@ -18,19 +18,16 @@ namespace Z21
             double result;
             if (r1 == 0)
             {
-                Console.Write("Значение r1 должно быть не равно нулю\n" +
-                  "");
+                Console.Write("Значение r1 должно быть не равно нулю\n");
                 return;
             }
             if (r2 == 0)
             {
-                Console.Write("Значение r2 должно быть не равно нулю\n" +
-                  "");
+                Console.Write("Значение r2 должно быть не равно нулю\n");
                 return;
             }   
             result = (1 / r1) + (1 / r2);
-            Console.Write("{0:F4}\n" +
-                "", result);
+            Console.Write("{0:F4}\n", result);
         }
     }
 }

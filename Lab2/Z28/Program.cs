@@ -18,18 +18,21 @@ namespace Z28
             double c = double.Parse(s);
             s = Console.ReadLine();
             double x = double.Parse(s);
-            if (a < 0)
-            { Console.Write("Подкоренное выражение должно быть неотрицательным\n");
+            double f;
+            double z;
+            f = a * Math.Pow(x, 2) + b * x + c;
+            if (f < 0)
+            {
+                Console.Write("Подкоренное выражение должно быть неотрицательным\n");
                 return;
             }
-            if (a*b*c*x == 0)
-            { Console.Write("Знаменатель не может быть равен нулю\n");
+            if (f == 0)
+            {
+                Console.Write("Знаменатель не может быть равен нулю\n");
                 return;
             }
-            double result;
-            result = 1 / Math.Sqrt(Math.Pow(a * x, 2) + b * x + c);
-            Console.Write("{0:F4}\n", result);
-
+            z = 1 / Math.Sqrt(f);
+            Console.Write("{0:F4}\n", z);
         }
     }
 }

@@ -15,7 +15,10 @@ namespace Z30
             w = Console.ReadLine();
             double b = double.Parse(w);
             double result;
-            result = Math.Sin(a*Math.PI/180)*Math.Cos(b*Math.PI/180)+Math.Sin(b*Math.PI/180)*Math.Cos(a*Math.PI/180);
+            double t, r;
+            t = Math.Sin(a * Math.PI / 180) * Math.Cos(b * Math.PI / 180);
+            r = Math.Sin(b * Math.PI / 180) * Math.Cos(a * Math.PI / 180);
+            result = t + r;
             Console.Write("{0:F4}\n", result);
         }
     }

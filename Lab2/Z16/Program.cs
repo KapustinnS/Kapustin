@@ -17,20 +17,16 @@ namespace Z16
             double r;
             if (y < 0)
             {
-                Console.Write("Значение y должно быть неотрицательным\n" +
-                    "");
+                Console.Write("Значение y должно быть неотрицательным\n");
                 return;
             }
             if (x + Math.Sqrt(y) < 0)
             {
-                Console.Write("Подкоренное выражение должно быть неотрицательным\n" +
-                    "");
+                Console.Write("Подкоренное выражение должно быть неотрицательным\n");
                 return;
             }
             r = -5 * Math.Sqrt(x + Math.Sqrt(y));
-            Console.Write("{0:F4}", r);
-            Console.Write("\n" +
-                "");
+            Console.Write("{0:F4}\n", r);
         }
     }
 }

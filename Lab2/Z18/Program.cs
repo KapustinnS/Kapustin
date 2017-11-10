@@ -18,9 +18,7 @@ namespace Z18
             double x3 = double.Parse(a);
             double r;
             r = (x1*x2) + (x1*x3) + (x2*x3);
-            Console.Write("{0:F4}", r);
-            Console.Write("\n" +
-                "");
+            Console.Write("{0:F4}\n", r);
         }
     }
 }

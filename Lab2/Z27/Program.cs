@@ -12,10 +12,8 @@ namespace Z27
         {
             string a = Console.ReadLine();
             double x = double.Parse(a);
-            double g;
-            g = 1;
             double r;
-            r = Math.Sqrt(g - Math.Pow(Math.Sin(x*Math.PI/180),2));
+            r = Math.Sqrt(1 - Math.Pow(Math.Sin(x*Math.PI/180),2));
             Console.Write("{0:F4}\n", r);
         }
     }

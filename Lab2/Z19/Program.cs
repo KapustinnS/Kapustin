@@ -18,19 +18,17 @@ namespace Z19
             double a = double.Parse(k);
             double distance;
             if (t < 0)
-            { Console.Write("Время должно быть положительным\n" +
-                "");
-                return; }
+            {
+                Console.Write("Время должно быть положительным\n");
+                return;
+            }
             if (i < 0)
             {
-                Console.Write("Начальная скорость должно быть неотрицательна\n" +
-                  "");
+                Console.Write("Начальная скорость должно быть неотрицательна\n");
                 return;
             }
             distance = (i * t) + (a * t * t / 2);
-            Console.Write("{0:F4}", distance);
-            Console.Write("\n" +
-                "");
+            Console.Write("{0:F4}\n", distance);
         }
     }
 }

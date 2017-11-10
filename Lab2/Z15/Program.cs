@@ -14,15 +14,13 @@ namespace Z15
             a = Console.ReadLine();
             double s;
             s = double.Parse(a);
-            if (s<273.15) 
-            { Console.Write("Температура должна быть выше абсолютного нуля");
+            if (s < -273.15) 
+            { Console.Write("Температура должна быть выше абсолютного нуля\n");
                 return;
             }
-            double z;
-            z = 1.8;
             double temperatureInF;
-            temperatureInF = (s * z) + 32;
-            Console.Write("{0:F4}", temperatureInF);
+            temperatureInF = (s * 1.8) + 32;
+            Console.Write("{0:F4}\n", temperatureInF);
 
         }
     }

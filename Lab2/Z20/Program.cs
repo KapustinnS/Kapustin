@@ -20,26 +20,23 @@ namespace Z20
             g = 9.8067;
             double kineticEnergy, potentialEnergy;
             if (m < 0)
-            { Console.Write("Значение mass должно быть положительным\n" +
-                "");
+            {
+                Console.Write("Значение mass должно быть положительным\n");
                 return;
             }
             if (v < 0)
-            { Console.Write("Значение velocity должно быть положительным\n" +
-                "");
+            {
+                Console.Write("Значение velocity должно быть положительным\n");
                 return;
             }
             if (h < 0)
             {
-                Console.Write("Значение height должно быть неотрицательным\n" +
-                  "");
+                Console.Write("Значение height должно быть неотрицательным\n");
                 return;
             }
             kineticEnergy = (m*v*v)/2;
             potentialEnergy = m * g * h;
-            Console.Write("Кинетическая энергия составляет: {0:F4} Дж\n" +
-                "Потенциальная энергия составляет: {1:F4} Дж\n" +
-                "", kineticEnergy, potentialEnergy);
+            Console.Write("Кинетическая энергия составляет: {0:F4} Дж\nПотенциальная энергия составляет: {1:F4} Дж\n", kineticEnergy, potentialEnergy);
         }
     }
 }

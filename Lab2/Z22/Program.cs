@@ -17,14 +17,12 @@ namespace Z22
             double g;
             g = 9.8067;
             if (m <= 0)
-            { Console.Write("Масса должна быть положительной\n" +
-                "");
+            { Console.Write("Масса должна быть положительной\n");
                 return;
             }
             double result;
             result = m * g * Math.Cos(z * Math.PI / 180);
-            Console.Write("{0:F4}\n" +
-                "", result);
+            Console.Write("{0:F4}\n", result);
         }
     }
 }

@@ -14,14 +14,16 @@ namespace Z13
             s = Console.ReadLine();
             double a; 
             a = double.Parse(s);
-            if (a > 0)
+            double t;
+            t = 61 - a;
+            if (t < 0)
             {
-                Console.Write("Подкоренное выражение должно быть неотрицательным");
+                Console.Write("Подкоренное выражение должно быть неотрицательным\n");
                 return;
             }
             double result;
-            result = 3*Math.Sqrt(61-a);
-            Console.Write("{0:F4}", result);
+            result = 3*Math.Sqrt(t);
+            Console.Write("{0:F4}\n", result);
         }
     }
 }

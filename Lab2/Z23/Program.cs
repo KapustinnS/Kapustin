@@ -19,13 +19,11 @@ namespace Z23
             double discriminant;
             if (a == 0)
             {
-                Console.Write("Данное уравнение не является квадратным\n" +
-                  "");
+                Console.Write("Данное уравнение не является квадратным\n");
                 return;
             }
             discriminant = b*b-4*a*c;
-            Console.Write("{0:F4}\n" +
-                "", discriminant);
+            Console.Write("{0:F4}\n", discriminant);
         }
     }
 }
