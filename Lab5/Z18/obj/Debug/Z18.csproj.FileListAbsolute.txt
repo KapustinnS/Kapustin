@@ -1,0 +1,6 @@
+C:\Users\Ksa\Desktop\Kapustin\Lab5\Z18\bin\Debug\Z18.exe.config
+C:\Users\Ksa\Desktop\Kapustin\Lab5\Z18\bin\Debug\Z18.exe
+C:\Users\Ksa\Desktop\Kapustin\Lab5\Z18\bin\Debug\Z18.pdb
+C:\Users\Ksa\Desktop\Kapustin\Lab5\Z18\obj\Debug\Z18.csproj.CoreCompileInputs.cache
+C:\Users\Ksa\Desktop\Kapustin\Lab5\Z18\obj\Debug\Z18.exe
+C:\Users\Ksa\Desktop\Kapustin\Lab5\Z18\obj\Debug\Z18.pdb
