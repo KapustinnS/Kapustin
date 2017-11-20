@@ -1,0 +1,6 @@
+D:\учеба\Kapustin\Lab5\Z23\bin\Debug\Z23.exe.config
+D:\учеба\Kapustin\Lab5\Z23\bin\Debug\Z23.exe
+D:\учеба\Kapustin\Lab5\Z23\bin\Debug\Z23.pdb
+D:\учеба\Kapustin\Lab5\Z23\obj\Debug\Z23.csproj.CoreCompileInputs.cache
+D:\учеба\Kapustin\Lab5\Z23\obj\Debug\Z23.exe
+D:\учеба\Kapustin\Lab5\Z23\obj\Debug\Z23.pdb
