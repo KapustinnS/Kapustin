@@ -10,9 +10,9 @@ namespace Z14
     {
         static void Main(string[] args)
         {
-            int a = int.Parse(Console.ReadLine());
-            int b = int.Parse(Console.ReadLine());
-            int k = 1;
+            long a = long.Parse(Console.ReadLine());
+            long b = long.Parse(Console.ReadLine());
+            long k = 1;
             if (a < b)
             {
                 while (a <= b)

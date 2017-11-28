@@ -13,17 +13,25 @@ namespace Z13
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
             int s = 0;
+            if (a >= b)
+            {
                 while (b <= a)
                 {
                     s += a;
                     a--;
                 }
+                Console.WriteLine(s);
+            }
+            else
+            {
                 while (a <= b)
                 {
                     s += a;
                     a++;
                 }
-            Console.WriteLine(s);
+                Console.WriteLine(s);
+            }
         }
     }
 }
+
