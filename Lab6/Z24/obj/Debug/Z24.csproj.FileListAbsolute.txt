@@ -1,0 +1,6 @@
+C:\Users\pro-25\Desktop\Kapustin\Lab6\Z24\bin\Debug\Z24.exe.config
+C:\Users\pro-25\Desktop\Kapustin\Lab6\Z24\bin\Debug\Z24.exe
+C:\Users\pro-25\Desktop\Kapustin\Lab6\Z24\bin\Debug\Z24.pdb
+C:\Users\pro-25\Desktop\Kapustin\Lab6\Z24\obj\Debug\Z24.csproj.CoreCompileInputs.cache
+C:\Users\pro-25\Desktop\Kapustin\Lab6\Z24\obj\Debug\Z24.exe
+C:\Users\pro-25\Desktop\Kapustin\Lab6\Z24\obj\Debug\Z24.pdb
