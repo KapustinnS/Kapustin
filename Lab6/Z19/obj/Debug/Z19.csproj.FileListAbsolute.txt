@@ -1,0 +1,7 @@
+D:\учеба\Kapustin\Lab6\Z19\bin\Debug\Z19.exe.config
+D:\учеба\Kapustin\Lab6\Z19\bin\Debug\Z19.exe
+D:\учеба\Kapustin\Lab6\Z19\bin\Debug\Z19.pdb
+D:\учеба\Kapustin\Lab6\Z19\obj\Debug\Z19.csprojResolveAssemblyReference.cache
+D:\учеба\Kapustin\Lab6\Z19\obj\Debug\Z19.csproj.CoreCompileInputs.cache
+D:\учеба\Kapustin\Lab6\Z19\obj\Debug\Z19.exe
+D:\учеба\Kapustin\Lab6\Z19\obj\Debug\Z19.pdb
