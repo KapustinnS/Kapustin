@@ -1,0 +1,7 @@
+D:\учеба\Kapustin\Lab5\Z25\bin\Debug\Z25.exe.config
+D:\учеба\Kapustin\Lab5\Z25\bin\Debug\Z25.exe
+D:\учеба\Kapustin\Lab5\Z25\bin\Debug\Z25.pdb
+D:\учеба\Kapustin\Lab5\Z25\obj\Debug\Z25.csprojResolveAssemblyReference.cache
+D:\учеба\Kapustin\Lab5\Z25\obj\Debug\Z25.csproj.CoreCompileInputs.cache
+D:\учеба\Kapustin\Lab5\Z25\obj\Debug\Z25.exe
+D:\учеба\Kapustin\Lab5\Z25\obj\Debug\Z25.pdb

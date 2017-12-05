@@ -10,7 +10,7 @@ namespace Z12
     {
         static void Main(string[] args)
         {
-            String x =Console.ReadLine();
+            String x = Console.ReadLine();
             if (x == "a")
             {
                 Console.Write("a+\nb\nc\nd\ne\nf\ng\nh\n");
@@ -42,6 +42,10 @@ namespace Z12
             if (x == "f")
             {
                 Console.Write("a\nb\nc\nd\ne\nf+\ng\nh\n");
+            }
+            if (x == "g")
+            {
+                Console.Write("a\nb\nc\nd\ne\nf\ng\nh\n");
             }
         }
     }

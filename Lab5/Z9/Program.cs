@@ -12,27 +12,27 @@ namespace Z9
         {
             double Sc = double.Parse(Console.ReadLine());
             double Ss = double.Parse(Console.ReadLine());
-            double Sc1, Ss1, z;
+            double radius,edge,d;
             if (Sc < 0)
             {
-                Console.Write("Площадь круга должна быть положительной\n");
+                Console.WriteLine("Площадь круга должна быть положительной");
                 return;
             }
             if (Ss < 0)
             {
-                Console.Write("Площадь квадрата должна быть положительной\n");
+                Console.WriteLine("Площадь квадрата должна быть положительной");
                 return;
             }
-            Sc1 = Math.Sqrt(Sc / Math.PI);
-            Ss1 = Math.Sqrt(Ss);
-            z = Sc1 * 2;
-            if (z < Ss1)
+            radius = Math.Sqrt(Sc / Math.PI);
+            edge = Math.Sqrt(Ss);
+            d = radius * 2;
+            if (d < edge)
             {
-                Console.Write("Круг уместится в квадрате\n");
+                Console.WriteLine("Круг уместится в квадрате");
             }
             else
             {
-                Console.Write("Круг не поместится в квадрате\n");
+                Console.WriteLine("Круг не поместится в квадрате");
             }
         }
     }

@@ -15,23 +15,26 @@ namespace Z15
             double c = double.Parse(Console.ReadLine());
             if (a < 0)
             {
-                Console.Write("Значение А должно быть неотрицательным\n");
+                Console.WriteLine("Значение А должно быть неотрицательным");
+                return;
             }
             if (b < 0)
             {
-                Console.Write("Значение B должно быть неотрицательным\n");
+                Console.WriteLine("Значение B должно быть неотрицательным");
+                return;
             }
             if (c < 0)
             {
-                Console.Write("Значение C должно быть неотрицательным\n");
+                Console.WriteLine("Значение C должно быть неотрицательным");
+                return;
             }
             if (a == b || b == c || c == a)
             {
-                Console.Write("Треугольник является равнобедренным\n");
+                Console.WriteLine("Треугольник является равнобедренным");
             }
             else
             {
-                Console.Write("Треугольник не является равнобедренным\n");
+                Console.WriteLine("Треугольник не является равнобедренным");
             }
         }
     }

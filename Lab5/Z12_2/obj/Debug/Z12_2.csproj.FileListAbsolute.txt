@@ -1,0 +1,7 @@
+D:\учеба\Kapustin\Lab5\Z12_2\bin\Debug\Z12_2.exe.config
+D:\учеба\Kapustin\Lab5\Z12_2\bin\Debug\Z12_2.exe
+D:\учеба\Kapustin\Lab5\Z12_2\bin\Debug\Z12_2.pdb
+D:\учеба\Kapustin\Lab5\Z12_2\obj\Debug\Z12_2.csprojResolveAssemblyReference.cache
+D:\учеба\Kapustin\Lab5\Z12_2\obj\Debug\Z12_2.csproj.CoreCompileInputs.cache
+D:\учеба\Kapustin\Lab5\Z12_2\obj\Debug\Z12_2.exe
+D:\учеба\Kapustin\Lab5\Z12_2\obj\Debug\Z12_2.pdb

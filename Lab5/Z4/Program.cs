@@ -11,15 +11,11 @@ namespace Z4
         static void Main(string[] args)
         {
             double a = double.Parse(Console.ReadLine());
-            if (a<0)
+            if (a < 0)
             {
                 a = a * -1;
             }
-            else
-            {
-                a = a;
-            }
-            Console.Write("{0:F0}\n", a);
+            Console.WriteLine(a);
         }
     }
 }

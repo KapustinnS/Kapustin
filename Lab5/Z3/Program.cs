@@ -14,14 +14,12 @@ namespace Z3
             if (k > 0)
             {
                 k = Math.Sqrt(k);
-                Console.Write(k);
-                Console.Write("\n");
+                Console.WriteLine(k);
             }
             else
             { 
                 k = k * k;
-                Console.Write(k);
-                Console.Write("\n");
+                Console.WriteLine(k);
             }
         }
     }

@@ -22,8 +22,8 @@ namespace Z30
                 return;
             }
             int x, y;
-            x = (Xt - Xp1) * (Xp2 - Xp1);
-            y = (Yt - Yp1) * (Yp2 - Yp1);
+            x = (Xt - Xp1) / (Xp2 - Xp1);
+            y = (Yt - Yp1) / (Yp2 - Yp1);
             if (x == y)
             {
                 Console.WriteLine("Точка принадлежит прямой");
