@@ -1,6 +1,0 @@
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z23\bin\Debug\Z23.exe.config
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z23\bin\Debug\Z23.exe
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z23\bin\Debug\Z23.pdb
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z23\obj\Debug\Z23.csproj.CoreCompileInputs.cache
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z23\obj\Debug\Z23.exe
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z23\obj\Debug\Z23.pdb

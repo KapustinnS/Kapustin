@@ -1,6 +1,0 @@
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z22\bin\Debug\Z22.exe.config
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z22\bin\Debug\Z22.exe
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z22\bin\Debug\Z22.pdb
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z22\obj\Debug\Z22.csproj.CoreCompileInputs.cache
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z22\obj\Debug\Z22.exe
-C:\Users\pro-25\Desktop\Kapustin\Lab6\Z22\obj\Debug\Z22.pdb
