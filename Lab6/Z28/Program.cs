@@ -11,21 +11,22 @@ namespace Z28
         static void Main(string[] args)
         {
             int a = int.Parse(Console.ReadLine());
-            int i = 1;
-            int x = 0;
-            if ( a < 0)
+            int i = 0;
+            if (a < 0)
             {
                 Console.WriteLine("Значение Х должно быть положительным");
+                return;
             }
-                while (a <= i)
+            while (i <= a)
+            {
+                i++;
+                if (a % i == 0)
                 {
-                    if ( a % i == 0)
-                    {
-                        Console.Write(i +" ");
-                        i++;
-                    }
+                    Console.Write(i + " ");
+
                 }
-            
+            }
+
         }
     }
 }
