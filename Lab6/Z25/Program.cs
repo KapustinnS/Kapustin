@@ -12,26 +12,23 @@ namespace Z25
         {
             int y = int.Parse(Console.ReadLine());
             int i = 0;
-            if (i >= 15)
+            if (y < 0 || y > 15)
             {
                 Console.WriteLine("Значение Y должно быть в интервале [0, 15]");
                 return;
             }
-            while (i <= 15)
+            while (i != 15)
             {
-                if (i % 15 != 0)
+                if (i < y)
                 {
                     Console.Write("#");
-                    Console.Write(".");
-                    y++;
                 }
 
                 else
                 {
                     Console.Write(".");
-                    y++;
                 }
-
+                i++;
             }
         }
     }

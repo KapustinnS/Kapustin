@@ -15,19 +15,15 @@ namespace Z24
             int b = 40;
             while (a <= b)
             {
-                if (x <= 30)
+                if (x == a)
                 {
-                    Console.WriteLine(x+"+");
-                    x++;
+                    Console.WriteLine(x + "+");
                 }
                 else
                 {
-                    if (x >= 40)
-                    {
-                        Console.WriteLine(x + "-");
-                        x++;
-                    }
+                    Console.WriteLine(a + "-");
                 }
+                a++;
             }
         }
     }
