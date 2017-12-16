@@ -12,7 +12,7 @@ namespace Z25
         {
             double x = double.Parse(Console.ReadLine());
             double y = double.Parse(Console.ReadLine());
-            if ((y <= -1 && x >= 1) || (y >= -2 && x <= 3))
+            if (x >= 1 && x <= 3 && y <= -1 && y >= -2)
             {
                 Console.WriteLine("Точка принадлежит множеству");
             }

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z1", "Z1\Z1.csproj", "{3C3DBF0C-374A-4553-B08C-EA59A98FFDD3}"
 EndProject
@@ -70,6 +70,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z33", "Z33\Z33.csproj", "{877459EF-B147-4835-B925-203B9E9ED59A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z34", "Z34\Z34.csproj", "{E9484388-5BBA-4C7B-98D1-30F32F74CE1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z35", "Z35\Z35.csproj", "{0773365C-4CB4-40C2-A18C-3B9FD2B20C76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{E9484388-5BBA-4C7B-98D1-30F32F74CE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9484388-5BBA-4C7B-98D1-30F32F74CE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9484388-5BBA-4C7B-98D1-30F32F74CE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0773365C-4CB4-40C2-A18C-3B9FD2B20C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0773365C-4CB4-40C2-A18C-3B9FD2B20C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0773365C-4CB4-40C2-A18C-3B9FD2B20C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0773365C-4CB4-40C2-A18C-3B9FD2B20C76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

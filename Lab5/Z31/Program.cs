@@ -11,38 +11,39 @@ namespace Z31
         static void Main(string[] args)
         {
             int a1 = int.Parse(Console.ReadLine());
-            int a2 = int.Parse(Console.ReadLine());
             int b1 = int.Parse(Console.ReadLine());
+            int a2 = int.Parse(Console.ReadLine());
             int b2 = int.Parse(Console.ReadLine());
-            int a3, b3;
             if (a1 > b1 || a2 > b2)
             {
                 Console.WriteLine("Значение A должно быть меньше значения B");
                 return;
             }
-            if ((a1 < a2 && b1 < a2) || (a1 > b2 && b1 > b2))
+            if (a2 > b1 || b2 < a1)
             {
                 Console.WriteLine("не пересекаются");
             }
             else
             {
-                if (a1 < a2)
+                if (a1 < a2 && a2 < b1 && b1 < b2)
                 {
-                    a3 = a2;
+                    Console.WriteLine("Пересекаются ({0};{1})", a2,b1);
+                    return;
                 }
-                else
+                if (a1 < a2 && a2 < b1 && b1 < b2)
                 {
-                    a3 = a1;
+                    Console.WriteLine("Пересекаются ({0};{1})", a2,b2);
+                    return;
                 }
-                if (b1 < b2)
+                if (a1 > a2 && a2 < b1 && b1 < b2)
                 {
-                    b3 = b1;
+                    Console.WriteLine("Пересекаются ({0};{1})", a1,b1);
+                        return;
                 }
-                else
+                if ( a1 > a2 && a2 < b1 && b1 > b2)
                 {
-                    b3 = b2;
+                    Console.WriteLine("Пересекаются ({0};{1})", a1,b2);
                 }
-                Console.WriteLine("пересекаются (" + a3 + ";" + b3 + ")");
             }
         }
     }
