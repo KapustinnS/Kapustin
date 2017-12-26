@@ -13,7 +13,7 @@ namespace Z4
             int b = int.Parse(Console.ReadLine());
             int e = int.Parse(Console.ReadLine());
             string d = Console.ReadLine();
-            int i = 0;
+            int i = 10;
             string[] arr = d.Split(' ');
             if (b < 0 || arr.Length <= b)
             {
@@ -25,11 +25,11 @@ namespace Z4
                 Console.WriteLine("Число E должно быть в интервале [0, размер массива]");
                 return;
             }
-            while (i <= 0)
-            {
-   
-            }
+            while (b <= e)
+                {
+                    Console.Write(arr[b]+ " ");
+                    b++;
+                }
         }
-    }
     }
 }
