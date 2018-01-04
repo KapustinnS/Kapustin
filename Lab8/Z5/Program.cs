@@ -26,12 +26,12 @@ namespace Z5
                 Console.WriteLine("Число Q должно быть в интервале [0,размер массива]");
                 return;
             }
-             x = arr[p];
-             arr[p] = arr[q];
+            x = arr[p];
+            arr[p] = arr[q];
             arr[q] = x;
             while (i < arr.Length)
             {
-                Console.Write(arr[i]+" ");
+                Console.Write(arr[i] + " ");
                 i++;
             }
         }

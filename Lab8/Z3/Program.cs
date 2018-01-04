@@ -11,16 +11,16 @@ namespace Z3
         static void Main(string[] args)
         {
             string d = Console.ReadLine();
-            int l ;
+            int l;
             if (string.IsNullOrWhiteSpace(d))
             {
                 return;
             }
             string[] arr = d.Split(' ');
             l = arr.Length - 1;
-            while (l >=0)
+            while (l >= 0)
             {
-                Console.Write(arr[l] +" ");
+                Console.Write(arr[l] + " ");
                 l--;
             }
         }

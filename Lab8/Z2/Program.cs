@@ -17,11 +17,11 @@ namespace Z2
                 return;
             }
             string[] arr = date.Split(' ');
-            while ( l < arr.Length)
+            while (l < arr.Length)
             {
                 Console.WriteLine(arr[l] + " " + l);
                 l++;
-           }
+            }
         }
     }
 }

@@ -26,10 +26,10 @@ namespace Z4
                 return;
             }
             while (b <= e)
-                {
-                    Console.Write(arr[b]+ " ");
-                    b++;
-                }
+            {
+                Console.Write(arr[b] + " ");
+                b++;
+            }
         }
     }
 }

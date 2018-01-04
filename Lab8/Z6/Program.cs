@@ -58,7 +58,7 @@ namespace Z6
                 c--;
                 d--;
                 arr[d] = arr[c];
-               
+
             }
             arr[0] = x;
             while (i < arr.Length)
