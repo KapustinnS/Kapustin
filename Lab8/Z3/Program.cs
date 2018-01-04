@@ -11,7 +11,7 @@ namespace Z3
         static void Main(string[] args)
         {
             string d = Console.ReadLine();
-            int l = 9;
+            int l ;
             if (string.IsNullOrWhiteSpace(d))
             {
                 return;
