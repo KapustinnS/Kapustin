@@ -11,8 +11,8 @@ namespace Z2
     {
         static void Main(string[] args)
         {
-            string filename = "../../task4488/test1.txt";
-            int i = 0;
+            int a = int.Parse(Console.ReadLine());
+            string filename = "../../task4488/test" + a + ".txt";
             if (!File.Exists(filename))
             {
                 Console.WriteLine("Файл не существует");
@@ -25,16 +25,14 @@ namespace Z2
                 Console.WriteLine("Файл пуст");
                 return;
             }
-            if (!reader.EndOfStream)
-            {
-                string line = reader.ReadLine();
-                Console.Write(line + " ");
-            }
+            int c = 0;
+            string line = reader.ReadLine();
             while (!reader.EndOfStream)
             {
-                string line = reader.ReadLine();
-                Console.Write(line);
+                reader.ReadLine();
+                c++;
             }
+            Console.Write(line + " " + c);
             reader.Close();
         }
     }
