@@ -49,10 +49,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="task4642\test1.txt" />
-    <Content Include="task4642\test2.txt" />
-    <Content Include="task4642\test3.txt" />
-    <Content Include="task4642\test5.txt" />
+    <Content Include="task4954\test1.txt" />
+    <Content Include="task4954\test2.txt" />
+    <Content Include="task4954\test3.txt" />
+    <Content Include="task4954\test5.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
