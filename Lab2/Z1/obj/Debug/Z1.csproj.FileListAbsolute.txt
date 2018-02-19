@@ -1,7 +1,0 @@
-D:\учеба\Kapustin\Lab2\Z1\bin\Debug\Z1.exe.config
-D:\учеба\Kapustin\Lab2\Z1\bin\Debug\Z1.exe
-D:\учеба\Kapustin\Lab2\Z1\bin\Debug\Z1.pdb
-D:\учеба\Kapustin\Lab2\Z1\obj\Debug\Z1.csprojResolveAssemblyReference.cache
-D:\учеба\Kapustin\Lab2\Z1\obj\Debug\Z1.csproj.CoreCompileInputs.cache
-D:\учеба\Kapustin\Lab2\Z1\obj\Debug\Z1.exe
-D:\учеба\Kapustin\Lab2\Z1\obj\Debug\Z1.pdb

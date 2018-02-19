@@ -1,7 +1,0 @@
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z31\bin\Debug\Z31.exe.config
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z31\bin\Debug\Z31.exe
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z31\bin\Debug\Z31.pdb
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z31\obj\Debug\Z31.csprojResolveAssemblyReference.cache
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z31\obj\Debug\Z31.csproj.CoreCompileInputs.cache
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z31\obj\Debug\Z31.exe
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z31\obj\Debug\Z31.pdb

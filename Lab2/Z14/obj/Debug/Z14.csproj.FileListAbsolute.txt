@@ -1,6 +1,0 @@
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z14\bin\Debug\Z14.exe.config
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z14\bin\Debug\Z14.exe
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z14\bin\Debug\Z14.pdb
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z14\obj\Debug\Z14.csproj.CoreCompileInputs.cache
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z14\obj\Debug\Z14.exe
-C:\Users\pro-25\Desktop\Kapustin\Lab2\Z14\obj\Debug\Z14.pdb

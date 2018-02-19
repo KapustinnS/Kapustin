@@ -1,6 +1,0 @@
-D:\учеба\Kapustin\Lab2\Z18\bin\Debug\Z18.exe.config
-D:\учеба\Kapustin\Lab2\Z18\bin\Debug\Z18.exe
-D:\учеба\Kapustin\Lab2\Z18\bin\Debug\Z18.pdb
-D:\учеба\Kapustin\Lab2\Z18\obj\Debug\Z18.csproj.CoreCompileInputs.cache
-D:\учеба\Kapustin\Lab2\Z18\obj\Debug\Z18.exe
-D:\учеба\Kapustin\Lab2\Z18\obj\Debug\Z18.pdb

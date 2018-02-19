@@ -1,6 +1,0 @@
-D:\учеба\Kapustin\Lab2\Z26\bin\Debug\Z26.exe.config
-D:\учеба\Kapustin\Lab2\Z26\bin\Debug\Z26.exe
-D:\учеба\Kapustin\Lab2\Z26\bin\Debug\Z26.pdb
-D:\учеба\Kapustin\Lab2\Z26\obj\Debug\Z26.csproj.CoreCompileInputs.cache
-D:\учеба\Kapustin\Lab2\Z26\obj\Debug\Z26.exe
-D:\учеба\Kapustin\Lab2\Z26\obj\Debug\Z26.pdb

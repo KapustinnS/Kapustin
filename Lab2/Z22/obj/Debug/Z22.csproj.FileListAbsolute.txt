@@ -1,7 +1,0 @@
-D:\учеба\Kapustin\Lab2\Z22\bin\Debug\Z22.exe.config
-D:\учеба\Kapustin\Lab2\Z22\bin\Debug\Z22.exe
-D:\учеба\Kapustin\Lab2\Z22\bin\Debug\Z22.pdb
-D:\учеба\Kapustin\Lab2\Z22\obj\Debug\Z22.csproj.CoreCompileInputs.cache
-D:\учеба\Kapustin\Lab2\Z22\obj\Debug\Z22.exe
-D:\учеба\Kapustin\Lab2\Z22\obj\Debug\Z22.pdb
-D:\учеба\Kapustin\Lab2\Z22\obj\Debug\Z22.csprojResolveAssemblyReference.cache

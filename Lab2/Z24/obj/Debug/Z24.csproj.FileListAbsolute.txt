@@ -1,6 +1,0 @@
-D:\учеба\Kapustin\Lab2\Z24\bin\Debug\Z24.exe.config
-D:\учеба\Kapustin\Lab2\Z24\bin\Debug\Z24.exe
-D:\учеба\Kapustin\Lab2\Z24\bin\Debug\Z24.pdb
-D:\учеба\Kapustin\Lab2\Z24\obj\Debug\Z24.csproj.CoreCompileInputs.cache
-D:\учеба\Kapustin\Lab2\Z24\obj\Debug\Z24.exe
-D:\учеба\Kapustin\Lab2\Z24\obj\Debug\Z24.pdb

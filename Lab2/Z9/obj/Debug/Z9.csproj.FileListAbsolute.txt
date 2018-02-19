@@ -1,6 +1,0 @@
-D:\учеба\Kapustin\Lab2\Z9\bin\Debug\Z9.exe.config
-D:\учеба\Kapustin\Lab2\Z9\bin\Debug\Z9.exe
-D:\учеба\Kapustin\Lab2\Z9\bin\Debug\Z9.pdb
-D:\учеба\Kapustin\Lab2\Z9\obj\Debug\Z9.csproj.CoreCompileInputs.cache
-D:\учеба\Kapustin\Lab2\Z9\obj\Debug\Z9.exe
-D:\учеба\Kapustin\Lab2\Z9\obj\Debug\Z9.pdb

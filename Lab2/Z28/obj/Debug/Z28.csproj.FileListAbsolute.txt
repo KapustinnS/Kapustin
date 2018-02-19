@@ -1,7 +1,0 @@
-D:\учеба\Kapustin\Lab2\Z28\bin\Debug\Z28.exe.config
-D:\учеба\Kapustin\Lab2\Z28\bin\Debug\Z28.exe
-D:\учеба\Kapustin\Lab2\Z28\bin\Debug\Z28.pdb
-D:\учеба\Kapustin\Lab2\Z28\obj\Debug\Z28.csprojResolveAssemblyReference.cache
-D:\учеба\Kapustin\Lab2\Z28\obj\Debug\Z28.csproj.CoreCompileInputs.cache
-D:\учеба\Kapustin\Lab2\Z28\obj\Debug\Z28.exe
-D:\учеба\Kapustin\Lab2\Z28\obj\Debug\Z28.pdb
