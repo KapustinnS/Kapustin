@@ -1,6 +1,0 @@
-D:\учеба\Kapustin\Lab1\Zadanie10\bin\Debug\Zadanie10.exe.config
-D:\учеба\Kapustin\Lab1\Zadanie10\bin\Debug\Zadanie10.exe
-D:\учеба\Kapustin\Lab1\Zadanie10\bin\Debug\Zadanie10.pdb
-D:\учеба\Kapustin\Lab1\Zadanie10\obj\Debug\Zadanie10.csproj.CoreCompileInputs.cache
-D:\учеба\Kapustin\Lab1\Zadanie10\obj\Debug\Zadanie10.exe
-D:\учеба\Kapustin\Lab1\Zadanie10\obj\Debug\Zadanie10.pdb
