@@ -1,7 +1,0 @@
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z17\bin\Debug\Z17.exe.config
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z17\bin\Debug\Z17.exe
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z17\bin\Debug\Z17.pdb
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z17\obj\Debug\Z17.csprojResolveAssemblyReference.cache
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z17\obj\Debug\Z17.csproj.CoreCompileInputs.cache
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z17\obj\Debug\Z17.exe
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z17\obj\Debug\Z17.pdb

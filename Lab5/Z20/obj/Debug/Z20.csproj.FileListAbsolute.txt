@@ -1,7 +1,0 @@
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z20\bin\Debug\Z20.exe.config
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z20\bin\Debug\Z20.exe
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z20\bin\Debug\Z20.pdb
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z20\obj\Debug\Z20.csprojResolveAssemblyReference.cache
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z20\obj\Debug\Z20.csproj.CoreCompileInputs.cache
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z20\obj\Debug\Z20.exe
-C:\Users\Ksa\Desktop\Kapustin\Lab5\Z20\obj\Debug\Z20.pdb

@@ -1,6 +1,0 @@
-D:\учеба\Kapustin\Lab5\Z4\bin\Debug\Z4.exe.config
-D:\учеба\Kapustin\Lab5\Z4\bin\Debug\Z4.exe
-D:\учеба\Kapustin\Lab5\Z4\bin\Debug\Z4.pdb
-D:\учеба\Kapustin\Lab5\Z4\obj\Debug\Z4.csproj.CoreCompileInputs.cache
-D:\учеба\Kapustin\Lab5\Z4\obj\Debug\Z4.exe
-D:\учеба\Kapustin\Lab5\Z4\obj\Debug\Z4.pdb
