@@ -15,13 +15,13 @@ namespace Z4
             int n = int.Parse(Console.ReadLine());
             if (!File.Exists("../../task4642/test" + n + ".txt"))
             {
-                Console.Write("Файл не существует");
+                Console.WriteLine("Файл не существует");
                 return;
             }
             StreamReader reader = new StreamReader("../../task4642/test" + n + ".txt");
             if (reader.EndOfStream)
             {
-                Console.Write("Файл пуст");
+                Console.WriteLine("Файл пуст");
                 return;
             }
             String b = "";
