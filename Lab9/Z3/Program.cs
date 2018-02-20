@@ -11,34 +11,32 @@ namespace Z3
     {
         static void Main(string[] args)
         {
-            string b = Console.ReadLine();
             int a = int.Parse(Console.ReadLine());
-            int a1 = 0;
-            string filename = "../../task4642/test" + a + ".txt";
-            if (!File.Exists(filename))
+            int i = 0;
+            string name = "../../task4954/test" + a + ".txt";
+            string b = Console.ReadLine();
+            if (!File.Exists(name))
             {
                 Console.WriteLine("Файл не существует");
                 return;
             }
-            int c = 0;
-            StreamReader reader;
-            reader = new StreamReader(filename);
-            string line = reader.ReadLine();
-            //if (c < a1)
-            //{
-            //    while (!reader.EndOfStream)
-            //    {
-            //        Console.Write(b);
-            //        c++;
-            //    }
-            //}
-            while (!reader.EndOfStream)
+            using (StreamReader reader = new StreamReader(name))
             {
-                reader.ReadLine();
-                c++;
+                if (reader.EndOfStream)
+                {
+                    Console.WriteLine("Файл пуст");
+                    return;
+                }
+                while (!reader.EndOfStream)
+                {
+                    string line = reader.ReadLine();
+                    if (line.IndexOf(b) != -1)
+                    {
+                        i++;
+                    }
+                }
+                Console.WriteLine(i);
             }
-            Console.Write(line);
-            reader.Close();
         }
     }
 }
